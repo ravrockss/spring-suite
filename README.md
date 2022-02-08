@@ -1,2 +1,2 @@
 # spring-suite
-# Deals with springboot ide
+Deals with springboot ide
