@@ -1,2 +1,2 @@
-# spring-suite
-Deals with springboot ide
+# sublime-portable version
+Deals with Sublime Text Editor Portable version
